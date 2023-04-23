@@ -21,7 +21,7 @@ const Intro = () => {
               <FaAward className="about__icon" />
               <h5>Experience</h5>
               <small>
-                <span style={{ fontSize: "20px" }}>2</span> years
+                <span style={{ fontSize: "20px" }}>2+</span> years
               </small>
             </article>
             <article className="about__card">
