@@ -16,7 +16,7 @@ const Contact = () => {
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>anisha8057@gmail.com</h5>
-            <a href="mailto:anisha8057@gmail.com">Send a message</a>
+            <a href="mailto:anishagupta8057@gmail.com">Send a message</a>
           </article>
         </div>
         <div className="contact__options">
@@ -24,7 +24,7 @@ const Contact = () => {
             <FaLinkedinIn className="contact__option-icon" />
             <h4>Linkedin</h4>
             <h5>https://bit.ly/3Pdfv4Y</h5>
-            <a href="https://www.linkedin.com/in/anisha-gupta-66096318b/">
+            <a href="https://www.linkedin.com/in/anisha-gupta-752870245/">
               Send a message
             </a>
           </article>
